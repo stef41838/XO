@@ -7,7 +7,7 @@ public class CurrentMoveController {
 
     /**
      * Принимает объект поля и возвращает фигурргу игрока,
-     * который сейас ходит.
+     * который сейас ходит. ^_^
      *
      * @param field
      * @return

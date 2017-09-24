@@ -8,7 +8,7 @@ import stza.xo.model.Game;
 public class ConsoleView {
 
     /**
-     * Drawing the game field.
+     * Отображение поля игры
      *
      * @param game - instance of a class 'Game'
      */

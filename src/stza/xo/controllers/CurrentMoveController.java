@@ -5,13 +5,7 @@ import stza.xo.model.Point;
 
 public class CurrentMoveController {
 
-    /**
-     * Принимает объект поля и возвращает фигурргу игрока,
-     * который сейас ходит. ^_^
-     *
-     * @param field
-     * @return
-     */
+
     public String currentMove(Field field) {
         int size = field.getSize();
 
